@@ -1,0 +1,42 @@
+#lg-nav li.dropdown-item {
+    border-radius: 5px;
+}
+
+
+
+#lg-nav ul li{
+    padding-left: 1rem ;
+}
+
+#lg-nav ul.nav li:hover{
+    background-color: rgba(0, 0, 0, .05) ;
+    border-radius: 5px;
+}
+
+
+#lg-nav .dropdown ul  {
+    width: 244px !important;
+    position: absolute;
+    left:50px;
+}
+
+#dropdownUser:hover {
+    background-color: rgba(0, 0, 0, .05) ;
+    border-radius: 5px;
+}
+
+#lg-nav .dropdown a::after {
+    content: none;
+}
+
+#drop-div{
+    border-bottom: 5px solid rgba(0, 0, 0, .05);
+}
+
+#droplist a:hover{
+    background-color: transparent !important;
+}
+
+#droplist li:hover{
+    background-color: rgba(0, 0, 0, .05) !important;
+}
