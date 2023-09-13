@@ -1,0 +1,154 @@
+/* Fonts */
+
+.font-blinker-100 {
+    font-family: 'Blinker', sans-serif;
+    font-weight: 100;
+}
+
+.font-blinker-200 {
+    font-family: 'Blinker', sans-serif;
+    font-weight: 200;
+}
+.font-blinker-300 {
+    font-family: 'Blinker', sans-serif;
+    font-weight: 300;
+}
+.font-blinker-400 {
+    font-family: 'Blinker', sans-serif;
+    font-weight: 400;
+}
+
+.font-blink {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+}
+.font-blink-100 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+}
+.font-blink-200 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+}
+.font-blink-300 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+
+.font-sansserif-400 {
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.font-sansserif-600 {
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.font-sansserif-800 {
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.font-lsp-xs {
+    letter-spacing: 0.05rem;
+}
+
+.font-lsp-s {
+    letter-spacing: 0.1rem;
+}
+
+.font-lsp-m {
+    letter-spacing: 0.15rem;
+}
+
+.font-lsp-l {
+    letter-spacing: 0.2rem;
+}
+
+.font-lsp-xl {
+    letter-spacing: 0.25rem;
+}
+
+
+
+/* Text */
+
+.text-xxs {
+    font-size: 0.75rem;
+}
+
+.text-xs {
+    font-size: 0.88rem;
+}
+
+.text-s {
+    font-size: 1.25rem;
+}
+
+.text-m {
+    font-size: 1.75rem;
+}
+
+.text-ml {
+    font-size: 2.25rem;
+}
+
+.text-l {
+    font-size: 2.5rem;
+}
+
+.text-xl {
+    font-size: 2.75rem;
+}
+
+.text-xxl {
+    font-size: 3.25rem;
+}
+
+/* Colors */
+
+.pmr-pale {
+    color: #ebe5f4;
+}
+
+.pmr-pale-soft {
+    color: #f0f0f8;
+}
+
+.pmr-primary {
+    color: #605dba;
+}
+
+.pmr-dark-grey {
+    color: #343f52;
+}
+
+.pmr-white-border {
+    color: #ebedf3;
+}
+
+.pmr-light {
+    color: #fcfcfd;
+}
+
+.pmr-body {
+    color: #60697b;
+}
+
+.pmr-secondary {
+    color: #aab0bc;
+}
+
+.pmr-blue {
+    color: #3f78e0;
+}
+
+.pmr-linkblue {
+    color: #0095f6;
+}
+
+.pmr-yellow {
+    color: #fcc032;
+}
+
