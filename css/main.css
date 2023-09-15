@@ -83,6 +83,31 @@ textarea {
     background-color: rgba(0, 0, 0, .05) !important;
 }
 
+#sm-nav li.dropdown-item {
+    border-radius: 4px;
+}
+
+#sm-nav ul li {
+    padding: 0.75rem;
+    padding-left: 1rem;
+}
+
+#sm-nav div.dropdown a {
+    padding: 0.75rem;
+    padding-left: 1rem;
+    border-radius: 4px;
+}
+
+#sm-nav div.dropdown a:hover {
+    background-color: rgba(0, 0, 0, .05) !important;
+}
+
+#sm-nav ul.nav li:hover {
+    background-color: rgba(0, 0, 0, .05);
+    border-radius: 5px;
+}
+
+
 .story-container .content .img-container {
     display: inline-block;
     width: 4rem;
